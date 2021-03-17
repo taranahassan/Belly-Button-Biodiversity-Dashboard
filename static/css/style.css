@@ -1,0 +1,25 @@
+body {
+    background-color: #6666CC;
+}
+
+.jumbotron {
+    background-image: url("../images/jumbotron_pic1.jpg");
+    background-size: 100% 100%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: larger;
+}
+
+.well {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: small;
+    background-color: lightgrey;
+    border-color: black;
+}
+
+.panel {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: large;
+    background-color: lightgrey;
+    border-color: black;
+}
+
