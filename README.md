@@ -17,3 +17,5 @@ Using plotly on javascript, 3 charts were made using the analysis results:
 The results can be populated for each test subject by selecting their specific ID no. from the drop down menu.  All 3 charts will generate the results based on ID no. selected.
 
 Final step of this project was customizing the html display for better visualization.  
+
+Due to the security built in Chrome, the [samples.json](https://github.com/taranahassan/Belly-Button-Biodiversity-Dashboard/blob/main/samples.json) resource file cannot be read directly but rather running it through a static server.  However since these files are stored in a local server, this project will be deployed via GitHub pages.
