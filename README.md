@@ -1,4 +1,4 @@
-# Plotly charts on dashboard deployment
+# Dashboard
 
 # Overview of project:
 
